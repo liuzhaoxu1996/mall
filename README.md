@@ -1,5 +1,7 @@
 
 项目初始化步骤
+项目预览：
+![商城预览](http://m.qpic.cn/psb?/V12ZEwXZ3XJLHy/*8UweYAVo2xDhekgRL6XGCOifD61D4qbP4SbZZot22k!/b/dEQBAAAAAAAA&bo=0QiwBNEIsAQDZ0I!&rf=viewer_4)
 
 1.安装nodejs环境,推荐使用v4.4.7
     下载地址 : https://nodejs.org/download/release/v4.4.7/
